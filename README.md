@@ -2,9 +2,7 @@
 
 **LeafCheck — Plant Disease Detection and Outbreak Mapping**
 
-**Developer:** Pratik Pokhrel
 
-LeafCheck is an independent project developed by Pratik Pokhrel to organize plant disease information, demonstrate plant scan results, and visualize potential disease outbreaks through an interactive map.
 
 ## Project Structure
 
